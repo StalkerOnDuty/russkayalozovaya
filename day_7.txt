@@ -17,7 +17,7 @@
 		<Point>
 			<UID>028D5039</UID>
 			<Name>Point 5</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
+			<DelayBeforeActivation>00:05:00</DelayBeforeActivation>
 			<ReadTime>00:03:00</ReadTime>
 		</Point>
 		<Point>
