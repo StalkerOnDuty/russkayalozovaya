@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Duty>
-	<StartTime>20:00:00</StartTime>
+	<StartTime>09:00:00</StartTime>
 	<FinishTime>06:00:00</FinishTime>
 	<RoundPeriod>00:25:00</RoundPeriod>
 	<RoundDelay>00:05:00</RoundDelay>
