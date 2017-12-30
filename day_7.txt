@@ -29,7 +29,7 @@
 		<Point>
 			<UID>D10C5039</UID>
 			<Name>Point 3</Name>
-			<DelayBeforeActivation>00:08:00</DelayBeforeActivation>
+			<DelayBeforeActivation>00:15:00</DelayBeforeActivation>
 			<ReadTime>00:19:30</ReadTime>
 		</Point>
 		<Point>
@@ -41,7 +41,7 @@
 		<Point>
 			<UID>21E47C5B</UID>
 			<Name>Point 2A</Name>
-			<DelayBeforeActivation>00:04:00</DelayBeforeActivation>
+			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
 			<ReadTime>00:05:00</ReadTime>
 		</Point>
 	</NFCPoints>
